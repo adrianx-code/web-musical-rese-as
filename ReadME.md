@@ -3,11 +3,12 @@
 **Track by Track** es una aplicación web  interactiva creada para los fanáticos de la música. Ofrece a los usuarios la posibilidad de encontrar canciones, ver artistas populares y publicar críticas musicales. Esta plataforma utiliza Firebase para la autenticación de usuarios y Firestore como base de datos en la nube, garantizando una experiencia segura y dinámica.
 
 ---
+🎥 Video de Presentación:
 
-[Ver vídeo de la presentación en YouTube](https://youtu.be/Lu1iUIWRasg)
+[Ver vídeo de la presentación en YouTube]([https://youtu.be/Lu1iUIWRasg](https://www.youtube.com/watch?v=Lu1iUIWRasg&ab_channel=BENY))
 ---
 
-[📄 Ver presentación en PDF](./presentacion/Track_by_track_presentation%20(1).pdf)
+[📄 Ver presentación en PDF]((https://pdf.ac/4zPNBJ))
 --- 
 
 ## 🚀 Funcionalidades
